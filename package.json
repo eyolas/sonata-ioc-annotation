@@ -1,0 +1,33 @@
+{
+    "name": "sonata-ioc-annotation",
+    "author": "David TOUZET <dtouzet@gmail.com>",
+    "description": "Annotation for sonata-ioc",
+    "version": "1.0.0-alpha",
+    "homepage": "",
+    "repository": {
+        "type": "",
+        "url": ""
+    },
+    "bugs" : {
+        "url" : ""
+    },
+    "keywords": [
+        "dependency",
+        "injection",
+        "injector",
+        "ioc",
+        "container",
+        "annotations"
+    ],
+    "main": "index.js",
+    "license": "mit",
+    "dependencies": {
+        "sonata-ioc": "*"
+    },
+    "devDependencies": {
+    },
+    "optionalDependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
